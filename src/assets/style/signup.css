@@ -1,0 +1,20 @@
+.container{
+position: absolute;
+display: grid;
+width: 1200px;
+height: 700px;
+background:#FFFFFF;
+grid-template-columns: repeat(10,1fr);
+grid-template-rows: repeat(10,1fr);
+
+
+}
+.hijo-imagen{
+    background-image: url(../img/cyberpunkEDge.jpg);
+    background-size: cover;
+    background-position: top 0px left -450px;
+    grid-column: 1/5;
+    grid-row: 1/11;
+}
+
+

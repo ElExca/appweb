@@ -1,0 +1,12 @@
+.contenedorP{
+display: flex;
+width: 1519.5px;
+height: 1024px;
+left: 0px;
+top: 0px;
+background-size: cover;
+background-image: url(../img/Night_City.jpg);
+align-items: center;
+justify-content: center;
+z-index: 1;
+}
